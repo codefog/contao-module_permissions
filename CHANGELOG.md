@@ -1,6 +1,13 @@
 module_permissions Changelog
 ============================
 
+Version 1.0.2 stable (2013-12-05)
+---------------------------------
+
+### Improved
+- Automatically add new modules to the user or group
+
+
 Version 1.0.1 stable (2013-30-11)
 ---------------------------------
 

@@ -1,6 +1,14 @@
 module_permissions Changelog
 ============================
 
+Version 1.0.3 stable (2014-12-18)
+---------------------------------
+
+### Improved
+- Added the composer.json file
+- Updated the readme file
+
+
 Version 1.0.2 stable (2013-12-05)
 ---------------------------------
 

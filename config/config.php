@@ -16,7 +16,7 @@
  * Extension version
  */
 @define('MODULE_PERMISSIONS_VERSION', '1.0');
-@define('MODULE_PERMISSIONS_BUILD', '2');
+@define('MODULE_PERMISSIONS_BUILD', '3');
 
 
 /**

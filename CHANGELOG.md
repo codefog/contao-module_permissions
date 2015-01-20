@@ -1,7 +1,7 @@
 module_permissions Changelog
 ============================
 
-Version 1.0.4 stable (2015-01-??)
+Version 1.0.4 stable (2015-01-20)
 ---------------------------------
 
 ### Improved

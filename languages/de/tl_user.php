@@ -8,18 +8,12 @@
  * @package module_permissions
  * @author  Codefog <http://codefog.pl>
  * @author  Kamil Kuzminski <kamil.kuzminski@codefog.pl>
+ * @author  Didier Federer <d.federer@designpilot.ch>
  * @license LGPL
  */
 
 
 /**
- * Extension version
+ * Fields
  */
-@define('MODULE_PERMISSIONS_VERSION', '1.0');
-@define('MODULE_PERMISSIONS_BUILD', '4');
-
-
-/**
- * Add permissions
- */
-$GLOBALS['TL_PERMISSIONS'][] = 'feModules';
+$GLOBALS['TL_LANG']['tl_user']['feModules'] = array('Frontend Module', 'Hier können Sie den Zugriff auf die Frontend Module erlauben.');
